@@ -1,5 +1,6 @@
 //BlobFinder.java
 //used to find blobs of pixels that make up notes and beginnings of lines 
+//the general stategy for this program was adapted from a Princeton lab assignment found here: http://www.cs.princeton.edu/courses/archive/fall15/cos126/assignments/atomic.html
 import java.util.*;
 import java.awt.Color;
 
